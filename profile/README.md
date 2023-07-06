@@ -1,4 +1,7 @@
 # ¡Hey, Welcome to 42 Awesome Software!
+
+![42 Awesome Software]([Isolated.png](https://42.com.ar/wp-content/uploads/2023/06/42_200.png) "42 Awesome Software")
+
 We won't bore you by talking about how good we are at software development and boasting about always being at the forefront of technology! Our projects and clients speak for themselves.
 
 Sure! We are going to tell you what we do: We develop impressive apps with Flutter Flow and delve into artificial intelligence with Chat GPT and other technologies.
